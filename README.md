@@ -10,3 +10,8 @@ The UI design includes the following features:
 
 # Getting Started
 To view the design files, simply navigate to the "Restaurant Reservation System Design" file in this repository. You can download and then open the file in Figma to view the design in action.
+
+# Screenshot
+![Home Page](https://user-images.githubusercontent.com/101915190/229432912-a2321dcd-7e09-457c-a177-748864f270fb.png)
+
+For more try the Screenshots folder
