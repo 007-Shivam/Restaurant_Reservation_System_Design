@@ -1,6 +1,8 @@
 # Restaurant Reservation System Design
 Restaurant Reservation System Design contains a user interface design for a restaurant reservation system. The UI has been created using Figma, a popular design tool that allows for the creation of highly customizable and responsive designs. The repository is focused on providing a simple and basic design for a restaurant reservation system, making it easy for users to navigate and make reservations. This repository is a great resource for anyone looking to design a restaurant reservation system or to learn more about UI design using Figma.
 
+Project Link : [**Figma**](https://www.figma.com/file/6mQVB6pjX64UozQHa4sAxi/Restaurant-Reservation-System-Design?type=design&node-id=0%3A1&t=NWLH3Hdk135HcAb4-1)
+
 # Features
 The UI design includes the following features:
 
